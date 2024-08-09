@@ -1,3 +1,6 @@
 [submodule "project-1-front-end"]
 	path = project-1-front-end
 	url = https://github.com/dhruv810/project1-front-end.git
+[submodule "project-1-back-end"]
+	path = project-1-back-end
+	url = https://github.com/dhruv810/Project1.git
